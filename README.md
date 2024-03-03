@@ -12,3 +12,5 @@ https://www.youtube.com/watch?v=sjlVox4f5Ww - unity projekt és github
 https://www.youtube.com/watch?v=QQs9MWLU_tU - ha magad akarod leprogramozni egy autó mozgását akkor ezt a videót ajánlom
 
 hf
+
+asd
